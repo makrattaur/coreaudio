@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreAudioApi", "CoreAudioApi\CoreAudioApi.csproj", "{E855AED9-3290-4E43-936E-6EC06055F14A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CUI", "CUI\CUI.csproj", "{347D5C88-4534-4652-AABF-C2C780DD0C7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleVolumeMixer", "ConsoleVolumeMixer\ConsoleVolumeMixer.csproj", "{18222FBA-5299-42EA-B565-F92EE3DDE86D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreAudioCommon", "CoreAudioCommon\CoreAudioCommon.csproj", "{FD8FB5F5-A613-4335-9DC9-FE31847211EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolumeMixer", "VolumeMixer\VolumeMixer.csproj", "{186B0C97-4C6D-475D-BF78-94C42AA4E097}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E855AED9-3290-4E43-936E-6EC06055F14A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E855AED9-3290-4E43-936E-6EC06055F14A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E855AED9-3290-4E43-936E-6EC06055F14A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E855AED9-3290-4E43-936E-6EC06055F14A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{347D5C88-4534-4652-AABF-C2C780DD0C7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{347D5C88-4534-4652-AABF-C2C780DD0C7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{347D5C88-4534-4652-AABF-C2C780DD0C7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{347D5C88-4534-4652-AABF-C2C780DD0C7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18222FBA-5299-42EA-B565-F92EE3DDE86D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18222FBA-5299-42EA-B565-F92EE3DDE86D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18222FBA-5299-42EA-B565-F92EE3DDE86D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18222FBA-5299-42EA-B565-F92EE3DDE86D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD8FB5F5-A613-4335-9DC9-FE31847211EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD8FB5F5-A613-4335-9DC9-FE31847211EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD8FB5F5-A613-4335-9DC9-FE31847211EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD8FB5F5-A613-4335-9DC9-FE31847211EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{186B0C97-4C6D-475D-BF78-94C42AA4E097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{186B0C97-4C6D-475D-BF78-94C42AA4E097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{186B0C97-4C6D-475D-BF78-94C42AA4E097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{186B0C97-4C6D-475D-BF78-94C42AA4E097}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
